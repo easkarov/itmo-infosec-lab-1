@@ -21,7 +21,6 @@ import se.ifmo.ru.lab1.repository.UserRepository;
 import se.ifmo.ru.lab1.security.jwt.UserPrincipal;
 
 @Slf4j
-@CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
 @RequestMapping("/api/posts")
 @RequiredArgsConstructor
