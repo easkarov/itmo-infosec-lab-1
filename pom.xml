@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.example</groupId>
-    <artifactId>secure-api</artifactId>
+    <groupId>se.ifmo.ru</groupId>
+    <artifactId>lab1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>secure-api</name>
+    <name>lab1</name>
     <description>Secure REST API with CI/CD integration</description>
 
     <properties>
